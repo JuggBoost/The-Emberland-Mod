@@ -1,0 +1,19 @@
+Version 0.1.1
+If anything is to overpowered, report it on the bug reporter. It will make things easier to deal with. If you have any 
+recommendations on what the stats should be, i'll gladly take them.
+
+Visit the Forum Page for a bug reporter and Discord link! We would like as much help as we can get!!!
+(Just Search Emberland on the Forums)
+
+
+Emberland Mod
+The world of Terraria has changed. Unknown things have came from other worlds and it's your job 
+to understand whats going on. On your adventure new ores, enemies, weapons, tools, and bosses
+will be found. As you progress you'll realize the threat is bigger than expected.
+Welcome to the world of Emberland.
+
+Contains:
++ 30 Items
++ 1 Tiles
+
+
